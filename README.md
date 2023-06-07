@@ -6,3 +6,5 @@
 
 ![image](https://github.com/farmstory5/embedded_ubuntu_ros_plan1/assets/130550405/4730fd6b-6fd5-41e1-9feb-622e75db9d35)
 
+영상 링크
+https://www.youtube.com/watch?v=rB2XlZQR5yE
